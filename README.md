@@ -1,17 +1,18 @@
-<img align="right" src="https://i.ibb.co/BCSqNnk/hello.gif" alt="hello" border="0" width="200px" height="250px">
+### Hi there 👋 <br><br>  I'm **HATTABI Ilyes Noureddine**
+> Forth Year Computer Science Student At [ESI](https://www.esi.dz/) 
 
-### Hi there 👋 I'm **HATTABI Ilyes Noureddine**
-> Forth Year Computer Science Student At [ESI EX INI](https://www.esi.dz/) 
+### Hi there 👋
 
- I have always sought out opportunities and challenges that are meaningful to me.<br>I've never stopped engaging my passion of learning and solving problems.
+- I’m currently a data science student at the Higher National School of Computer Science Engineering (ESI - Algiers)
+- I'm still learning more about Artificial Intelligence by reading various research papers
+- I'm continuously refining my data manipulation and modelling skills by participating in ML challenges
+- I’m open to any collaboration (research or job) in machine learning or data minning and cleaning 
 
-## Current level
+### Skills 🛠️
+- **Languages**: Python, C, Java, JavaScript, SQL
+- **DS/ML/DL**: Numpy, Pandas, Sklearn, PyTorch, seaborn, matplotlib, scipy
+- **Dev related**:  HTML, CSS, React, Tailwind
 
-- <h4> I build <a href="https://nidhal-eddine-chenni.vercel.app/">websites</a> and ML models.</h4>
-- <h4> I have 3 years of tech experience.</h4>
-
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
  
 ## Github Stats
 
@@ -19,8 +20,7 @@
 
 [![Chenni Nidhal Eddine GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilyes14hat&show_icons=true&count_private=true)](https://github.com/ilyes14hat)
 
-<img align='right' src="https://i.ibb.co/2kjd0zP/by.gif" alt="by" border="0" width="200px" height="250px"/>
 
-## 🤝🏻 Connect with Me
+## 🤝🏻 Contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/-ChenniNidhalEddine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidhaleddine-chenni/)](https://www.linkedin.com/in/nidhaleddine-chenni/) <!-- [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri) -->[![Gmail Badge](https://img.shields.io/badge/-jn_hattabi@esi.dz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jn_hattabi@esi.dz)](mailto:jn_hattabi@esi.dz)
+[![Linkedin Badge](https://img.shields.io/badge/-HATTABI_Ilyes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilyes-hattabi-71111819a/)](https://www.linkedin.com/in/ilyes-hattabi-71111819a/) [![Gmail Badge](https://img.shields.io/badge/-jn_hattabi@esi.dz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jn_hattabi@esi.dz)](mailto:jn_hattabi@esi.dz)
