@@ -1,6 +1,6 @@
 <img align="right" src="https://i.ibb.co/BCSqNnk/hello.gif" alt="hello" border="0" width="200px" height="250px">
 
-### Hi there 👋 I'm [HATTABI Ilyes Noureddine](https://nidhal-eddine-chenni.vercel.app/)
+### Hi there 👋 I'm **HATTABI Ilyes Noureddine**
 > Forth Year Computer Science Student At [ESI EX INI](https://www.esi.dz/) 
 
  I have always sought out opportunities and challenges that are meaningful to me.<br>I've never stopped engaging my passion of learning and solving problems.
