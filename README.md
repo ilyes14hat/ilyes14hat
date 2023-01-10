@@ -23,7 +23,4 @@
 
 ## 🤝🏻 Connect with Me
 
-[![Twitter Badge](https://img.shields.io/badge/-@NidhalEddineC-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NidhaleddineC)](https://twitter.com/NidhaleddineC) [![Linkedin Badge](https://img.shields.io/badge/-ChenniNidhalEddine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidhaleddine-chenni/)](https://www.linkedin.com/in/nidhaleddine-chenni/) <!-- [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri) -->[![Gmail Badge](https://img.shields.io/badge/-ne.chenni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ne.chenni@gmail.com)](mailto:ne.chenni@gmail.com)
-
-<h4>Do you have a project or need a solution? Then ↴<br><a href="https://nidhal-eddine-chenni.vercel.app/#contact">Contact me to get in touch now!</a></h4>
-<img src="https://komarev.com/ghpvc/?username=ilyes14hat" alt="HATTABI ilyes" />
+[![Linkedin Badge](https://img.shields.io/badge/-ChenniNidhalEddine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidhaleddine-chenni/)](https://www.linkedin.com/in/nidhaleddine-chenni/) <!-- [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri) -->[![Gmail Badge](https://img.shields.io/badge/-jn_hattabi@esi.dz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jn_hattabi@esi.dz)](mailto:jn_hattabi@esi.dz)
