@@ -17,7 +17,7 @@
 
 <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CHENNI-Nidhaleddine&layout=compact">
 
-[![Chenni Nidhal Eddine GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHENNI-Nidhaleddine&show_icons=true&count_private=true)](https://github.com/CHENNI-Nidhaleddine)
+[![Chenni Nidhal Eddine GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilyes14hat&show_icons=true&count_private=true)](https://github.com/ilyes14hat)
 
 <img align='right' src="https://i.ibb.co/2kjd0zP/by.gif" alt="by" border="0" width="200px" height="250px"/>
 
