@@ -1,5 +1,5 @@
 ### Hi there 👋 <br><br>  I'm **HATTABI Ilyes Noureddine**
-> Forth Year Computer Science Student At [ESI](https://www.esi.dz/) 
+> Forth Year Computer Science Engineering Student At [ESI](https://www.esi.dz/) 
 
 ### Hi there 👋
 
