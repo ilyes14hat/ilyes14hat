@@ -6,7 +6,7 @@
 - I'm continuously refining my data manipulation and modelling skills by participating in ML challenges
 - I’m open to any collaboration (research or job) in machine learning or data minning and cleaning 
 
-### Skills 🛠️
+### Skills
 - **Languages**: Python, C, Java, JavaScript, SQL
 - **DS/ML/DL**: Numpy, Pandas, Sklearn, PyTorch, seaborn, matplotlib, scipy
 - **Dev related**:  HTML, CSS, React, Tailwind
