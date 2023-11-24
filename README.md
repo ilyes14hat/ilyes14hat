@@ -1,5 +1,5 @@
 ### Hi there 👋 <br><br>  I'm **HATTABI Ilyes Noureddine**
-> Forth Year Computer Science Engineering Student At [ESI](https://www.esi.dz/) 
+> Fifth Year Computer Science Engineering Student At [ESI](https://www.esi.dz/) and M1 student at [Université Paris Cité](https://u-paris.fr/)
 
 - I’m currently a data science student at the Higher National School of Computer Science Engineering (ESI - Algiers)
 - I'm still learning more about Artificial Intelligence by reading various research papers
@@ -7,7 +7,8 @@
 - I’m open to any collaboration (research or job) in machine learning or data minning and cleaning 
 
 ### Skills
-- **Languages**: Python, C, Java, JavaScript, SQL
+- **Languages**: Python, C, Java, JavaScript
+- **Data Engineering**: SQL, NoSql, Pentaho
 - **DS/ML/DL**: Numpy, Pandas, Sklearn, PyTorch, seaborn, matplotlib, scipy
 - **Dev related**:  HTML, CSS, React, Tailwind
 
